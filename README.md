@@ -14,3 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=atsuh1r0" />
+  <img src="https://img.shields.io/github/followers/atsuh1r0?label=follow&logo=github&style=flat" />
+</p>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=atsuh1r0&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=atsuh1r0&theme=radical&langs_count=20)
+
+![trophy](https://github-profile-trophy.vercel.app/?username=atsuh1r0&theme=radical&column=7)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=atsuh1r0&theme=radical)
