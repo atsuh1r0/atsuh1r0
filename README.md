@@ -27,5 +27,3 @@ Here are some ideas to get you started:
 ![trophy](https://github-profile-trophy.vercel.app/?username=atsuh1r0&theme=radical&column=7)
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=atsuh1r0&theme=radical)
-
-![atsuh1r0's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=atsuh1r0)
